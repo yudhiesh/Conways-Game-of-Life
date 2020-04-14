@@ -1,4 +1,12 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+RIP JOHN CONWAY 
+
+Website 
+https://nostalgic-pasteur-de0551.netlify.com
+
+## Dependencies:
+### `yarn add immer` 
+
 
 ## Available Scripts
 
